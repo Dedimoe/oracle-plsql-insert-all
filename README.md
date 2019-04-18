@@ -1,7 +1,8 @@
 # oracle-plsql-insert-all
 syntax for the INSERT ALL statement in Oracle/PLSQL
 
-Syntax
+Syntax:
+
 The syntax for the INSERT ALL statement in Oracle/PLSQL is:
 
 INSERT ALL
@@ -12,14 +13,18 @@ SELECT * FROM dual;
 
 Parameters or Arguments
 
-mytable
+mytable:
+
 The table to insert the records into.
 
-column1, column2, column_n
+column1, column2, column_n:
+
 The columns in the table to insert values.
 
-expr1, expr2, ... expr_n
+expr1, expr2, ... expr_n:
+
 The values to assign to the columns in the table.
+
 
 Example - Insert into One Table
 
