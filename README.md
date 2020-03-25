@@ -1,4 +1,4 @@
-# oracle-plsql-insert-all
+# oracle-plsql-insert-all (bulks insert)
 ### syntax for the INSERT ALL statement in Oracle/PLSQL
 
 Syntax:
